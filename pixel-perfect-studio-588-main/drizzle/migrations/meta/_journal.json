@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791917251914,
+      "tag": "0000_safwa_schema",
+      "breakpoints": true
+    }
+  ]
+}
